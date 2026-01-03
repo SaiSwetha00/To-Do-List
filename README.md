@@ -15,8 +15,11 @@ This app allows users to manage daily tasks easily with a clean and simple inter
 - JavaScript
 
 ## 📂 Project Structure
+  index.html
+  style.css
+  script.js
 
-## ▶️ How to Run
+##  How to Run
 1. Clone or download this repository  
 2. Open `index.html` in any web browser  
 3. Start adding your tasks  
